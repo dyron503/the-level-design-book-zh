@@ -9,7 +9,7 @@
 
 .. note::
 
-   本文档适用CC BY-NC-SA 4.0 许可证，是[*The Level Design Book*](https://book.leveldesignbook.com/) 的中文译本。译者经验浅薄，行文多有疏漏；不足之处恳请读者批评指正。欢迎提交PR至本仓库！
+   本文档适用CC BY-NC-SA 4.0 许可证，是[*The Level Design Book*](https://book.leveldesignbook.com/) 的中文译本。译者经验浅薄，行文多有疏漏；如有不足之处，恳请读者批评指正。欢迎提交PR至本仓库！
 
 Contents
 --------
