@@ -1,17 +1,15 @@
-Welcome to Lumache's documentation!
+关卡设计之书
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+本书以平易近人、最新和批判性的方式汇聚3D电子游戏的关卡设计知识。它适用于具备各类经验水准和游戏引擎使用经历的策划。
 
 .. note::
 
-   This project is under active development.
+   这本书正在大力建设中，尚未公开发布。书籍结构和内容可能会有很大变化。
+
+.. note::
+
+   本文档适用CC BY-NC-SA 4.0 许可证，是[*The Level Design Book*](https://book.leveldesignbook.com/) 的中文译本。译者经验浅薄，行文多有疏漏；不足之处恳请读者批评指正。欢迎提交PR至本仓库！
 
 Contents
 --------
