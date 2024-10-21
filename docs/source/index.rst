@@ -16,5 +16,5 @@ Contents
 
 .. toctree::
 
-   什么是关卡设计？
+   usage
    api
