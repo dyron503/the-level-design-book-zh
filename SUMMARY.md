@@ -1,7 +1,7 @@
 # Table of contents
 
 * [关卡设计之书](README.md)
-* [✨ 关卡设计是什么](guan-qia-she-ji-shi-shen-me.md)
+* [✨ 关卡设计是什么](what_is_level_design.md)
 
 ## 第 1 册，流程 <a href="#process" id="process"></a>
 
