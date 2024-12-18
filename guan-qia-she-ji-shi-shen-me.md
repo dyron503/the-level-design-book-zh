@@ -41,7 +41,7 @@ _关卡策划历史的更多信息见_ [_关卡设计的历史_](culture/guan-qi
 
 ### 关卡设计与场景美术
 
-关卡策划专注塑造玩家行为。在大型工作室中，关卡策划的日常工作包括编写文档、起草[ Layout](process/layout/)、搭建[白盒](process/da-jian-guan-qia-bai-he/)、观察[游戏测试](process/da-jian-guan-qia-bai-he/playtesting/)以及[平衡地图](process/combat/map_balance.md)和设计[遭遇战](process/combat/encounter.md)。
+关卡策划专注塑造玩家行为。在大型工作室中，关卡策划的日常工作包括编写文档、起草[ Layout](process/layout/)、搭建[白盒](process/blockout/)、观察[游戏测试](process/blockout/playtesting/)以及[平衡地图](process/combat/map_balance.md)和设计[遭遇战](process/combat/encounter.md)。
 
 **关卡美术设计师**更关注图形，完善关卡的视觉表现：Ta 们对模型、材质进行[美术加工](process/environment_art/)并添加光照。这些工作看似主要是装饰性质，但良好的场景美术确实支撑体验设计目标，帮助玩家游玩和沉浸。
 
@@ -58,7 +58,7 @@ _关卡策划历史的更多信息见_ [_关卡设计的历史_](culture/guan-qi
 
 关卡策划有可能花上几天或数周设计一个房间。
 
-但对于尺寸巨大，拥有成百上千房间的战术竞技（battle royale）、开放世界或 MMO 游戏来说，反复推敲一个房间并不现实。**世界设计**和房间设计一样考虑[玩家流动](process/layout/flow/)和[引导](process/da-jian-guan-qia-bai-he/wayfinding.md)但以区块而非房屋为单位，聚落而非地点为重心；也会从更大的范畴而非单个实例层面考量设计。更宏观的设计方法可留出空间给玩家或其它游戏系统——换言之，在这一模式下也需要对空白作填充，免得成品玩起来空虚乏味。
+但对于尺寸巨大，拥有成百上千房间的战术竞技（battle royale）、开放世界或 MMO 游戏来说，反复推敲一个房间并不现实。**世界设计**和房间设计一样考虑[玩家流动](process/layout/flow/)和[引导](process/blockout/wayfinding.md)但以区块而非房屋为单位，聚落而非地点为重心；也会从更大的范畴而非单个实例层面考量设计。更宏观的设计方法可留出空间给玩家或其它游戏系统——换言之，在这一模式下也需要对空白作填充，免得成品玩起来空虚乏味。
 
 要构建情节驱动或剧本式的体验，请像建筑师一样关注每个房间。而对于空间大、玩家多、系统重的游戏来说，用城市规划者的思路做世界设计会更轻松自然。
 
@@ -90,7 +90,7 @@ _不知道要做什么？请参阅我们建议的_[_项目列表_](learning/ji-h
 
 大多数关卡设计书籍或过于抽象学术，或过于商业简单。 我们既致力于向读者解释和拓展业界关卡策划之通用术语，又努力保持足够的学术性，削减惰性思维。
 
-许多关卡策划缺乏描述关卡形状和体积的语言，建筑界的[体量](process/da-jian-guan-qia-bai-he/massing/)概念对 Ta 们很有帮助。但很多时候，我们在缺乏背景知识的情况下引用外部知识中的概念；例如，[关键路径](process/layout/critical_path.md)来自工程理论中的关键路径方法：它在工程中用于界定范围和检查依赖性。类似的，当我们缺乏精确的理论和术语时，思维和表达也会相应受限。
+许多关卡策划缺乏描述关卡形状和体积的语言，建筑界的[体量](process/blockout/massing/)概念对 Ta 们很有帮助。但很多时候，我们在缺乏背景知识的情况下引用外部知识中的概念；例如，[关键路径](process/layout/critical_path.md)来自工程理论中的关键路径方法：它在工程中用于界定范围和检查依赖性。类似的，当我们缺乏精确的理论和术语时，思维和表达也会相应受限。
 
 <figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption><p>建筑中使用的各种采光策略，作者：Francis Ching，摘自《形式、空间和秩序》</p></figcaption></figure>
 
@@ -132,8 +132,8 @@ _不知道要做什么？请参阅我们建议的_[_项目列表_](learning/ji-h
 
 ## 下一步怎么办？
 
-* 初学者：对流程先有一个总体了解，尤其是[预制作](process/pre_production/)、[草图](process/layout/)和[白盒](process/da-jian-guan-qia-bai-he/)。然后挑选一个[工具](appendix/gong-ju.md)，加入[关卡设计社区](appendix/she-qu.md)，接着 「去搓几张图」 。
-* 有一定经验：阅读许多教程中会忽视的特定主题，如[节奏设计](process/pre_production/pacing.md)、[玩家流动](process/layout/flow/)、[地图平衡](process/combat/map_balance.md)、[体量设计](process/da-jian-guan-qia-bai-he/massing/)、[规划指标](process/da-jian-guan-qia-bai-he/metrics.md)和[打光](process/lighting/)。
+* 初学者：对流程先有一个总体了解，尤其是[预制作](process/pre_production/)、[草图](process/layout/)和[白盒](process/blockout/)。然后挑选一个[工具](appendix/gong-ju.md)，加入[关卡设计社区](appendix/she-qu.md)，接着 「去搓几张图」 。
+* 有一定经验：阅读许多教程中会忽视的特定主题，如[节奏设计](process/pre_production/pacing.md)、[玩家流动](process/layout/flow/)、[地图平衡](process/combat/map_balance.md)、[体量设计](process/blockout/massing/)、规划[关卡标准参数](process/blockout/metrics.md)和[打光](process/lighting/)。
 
 > 我们强烈反对「引导线」或是「形状&色彩心理学」这样的理论。它们要么具有误导性，要么对设计无用或帮助甚少。
 
