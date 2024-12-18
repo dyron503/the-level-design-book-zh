@@ -51,7 +51,7 @@ _有关概念规划的更多信息见_[_预制作_](pre_production/)
 
 _设计战斗、武器和敌人的更多信息见_[_战斗设计_](combat/)
 
-_推荐修改的格斗游戏列表见_[_工具_](../appendix/gong-ju.md)
+_推荐修改的格斗游戏列表见_[_工具_](../appendix/tools.md)
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>电子表格详细展示了《战神》 (2018) 女武神 Boss 的技能组，<a href="https://twitter.com/jasondeheras/status/1376005158656638977">作者：Jason de Heras（来自 X）</a></p></figcaption></figure>
 

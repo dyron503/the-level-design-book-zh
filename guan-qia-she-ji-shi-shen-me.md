@@ -35,7 +35,7 @@ coverY: 0
 
 本书对于卷轴平台游戏、俯视角策略游戏或非战斗型游戏仍然有用。但无论是否有益，大多数关卡设计理论都默认媒介是 3D 射击游戏。这可以追溯到20世纪90年代；关卡策划职位诞生在这一射击游戏盛行的时期。
 
-_关卡策划历史的更多信息见_ [_关卡设计的历史_](culture/guan-qia-she-ji-de-li-shi.md)
+_关卡策划历史的更多信息见_ [_关卡设计的历史_](culture/history_of_the_level_designer.md)
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>《神秘海域4》 中 "island arrival" 关卡白盒截图，由 Em Schatz 制作</p></figcaption></figure>
 
@@ -72,7 +72,7 @@ _关卡策划历史的更多信息见_ [_关卡设计的历史_](culture/guan-qi
 
 所以说，你只有通过动手制作关卡……理想情况下，做很多关卡……才能成为关卡策划。
 
-_不知道要做什么？请参阅我们建议的_[_项目列表_](learning/ji-hua-zhong-de-jiao-xue-xiang-mu/)_。_
+_不知道要做什么？请参阅我们建议的_[_项目列表_](learning/project_plans/)_。_
 
 {% hint style="info" %}
 有时候本书中会用 「地图」 来替代 「关卡」；硬要说的话，地图的意味是空间会更开放，关卡则有着剧本似的倾向。
@@ -124,15 +124,15 @@ _不知道要做什么？请参阅我们建议的_[_项目列表_](learning/ji-h
 
 [研究](broken-reference)分析并揭示了特定关卡的工作原理，并附有图表和屏幕截图。
 
-[教学项目](learning/ji-hua-zhong-de-jiao-xue-xiang-mu/)是为学生和爱好者提供的自学教程和项目创意。教师应检查[教育工作者须知](learning/jiao-yu-gong-zuo-zhe-xu-zhi.md)。
+[教学项目](learning/project_plans/)是为学生和爱好者提供的自学教程和项目创意。教师应检查[教育工作者须知](learning/notes_for_educators.md)。
 
-还有一个附录，其中包含包含推荐软件和游戏引擎的工具列表，以及其他关卡设计[资产和资源](appendix/zi-chan-yu-zi-yuan.md)的链接 （免费模型和纹理，其他关卡设计书籍的推荐等）最后，我们强烈建议加入关卡设计[社区](appendix/she-qu.md)，仅仅一本书可无法回报你对关卡设计的爱。
+还有一个附录，其中包含包含推荐软件和游戏引擎的工具列表，以及其他关卡设计[资产和资源](appendix/assets_and_resources.md)的链接 （免费模型和纹理，其他关卡设计书籍的推荐等）最后，我们强烈建议加入关卡设计[社区](appendix/communities.md)，仅仅一本书可无法回报你对关卡设计的爱。
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p><em>Alba: a wildlife adventure</em> 的早期开放世界白盒截图：游戏由 ustwo Games 开发，图片由<a href="https://medium.com/@ustwogames/the-environment-art-of-alba-a-wildlife-adventure-6bddd8b56955"> Jessie Van Aeist </a>提供</p></figcaption></figure>
 
 ## 下一步怎么办？
 
-* 初学者：对流程先有一个总体了解，尤其是[预制作](process/pre_production/)、[草图](process/layout/)和[白盒](process/blockout/)。然后挑选一个[工具](appendix/gong-ju.md)，加入[关卡设计社区](appendix/she-qu.md)，接着 「去搓几张图」 。
+* 初学者：对流程先有一个总体了解，尤其是[预制作](process/pre_production/)、[草图](process/layout/)和[白盒](process/blockout/)。然后挑选一个[工具](appendix/tools.md)，加入[关卡设计社区](appendix/communities.md)，接着 「去搓几张图」 。
 * 有一定经验：阅读许多教程中会忽视的特定主题，如[节奏设计](process/pre_production/pacing.md)、[玩家流动](process/layout/flow/)、[地图平衡](process/combat/map_balance.md)、[体量设计](process/blockout/massing/)、规划[关卡标准参数](process/blockout/metrics.md)和[打光](process/lighting/)。
 
 > 我们强烈反对「引导线」或是「形状&色彩心理学」这样的理论。它们要么具有误导性，要么对设计无用或帮助甚少。
