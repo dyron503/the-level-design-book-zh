@@ -6,7 +6,7 @@
 ## 第 1 册，流程 <a href="#process" id="process"></a>
 
 * [🗺️ 如何制作关卡](process/quickstart.md)
-* [🧠 预制作](process/pre_production/README.md)
+* [🧠 前期制作](process/pre_production/README.md)
   * [节奏设计](process/pre_production/pacing.md)
   * [研究](process/pre_production/research.md)
   * [世界观设计](process/pre_production/worldbuilding.md)
@@ -17,7 +17,7 @@
   * [掩体](process/combat/cover.md)
   * [地图平衡](process/combat/map_balance.md)
 * [绘制关卡草图](process/layout/README.md)
-  * [玩家流动](process/layout/flow/README.md)
+  * [玩家心流](process/layout/flow/README.md)
     * [Circulation](process/layout/flow/circulation.md)
     * [垂直移动](process/layout/flow/verticality.md)
   * [关键路径](process/layout/critical_path.md)
@@ -29,7 +29,7 @@
     * [地形](process/blockout/massing/landscape.md)
     * [构图](process/blockout/massing/composition.md)
     * [前景-避难所理论](process/blockout/massing/prospect-refuge.md)
-  * [关卡标准参数](process/blockout/metrics.md)
+  * [关卡体验参数](process/blockout/metrics.md)
   * [寻路引导](process/blockout/wayfinding.md)
   * [跑测](process/blockout/playtesting/README.md)
     * [玩家角色](process/blockout/playtesting/player_persona.md)
