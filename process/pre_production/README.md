@@ -187,7 +187,7 @@ _「玩家应该享受非线性流程」_ 侧重于抽象结构；这与普通�
 Double Fine PsychOdyssey · EP08: “A Couple Years of a Lot of Work”（原视频来自 [Youtube](https://www.youtube.com/watch?v=eaA0P2dDHSg\&list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_\&index=9)）上传于 2023 年 2 月 11 日
 {% endembed %}
 
-## 示例：《耻辱2》 发条大厦关卡
+## 示例：《耻辱2》  _Clockwork Mansion_ 关卡
 
 《耻辱》 系列是探索复杂空间的第一人称潜行 ARPG。在 《耻辱2》 中 「发条大厦」 关卡中，布局动态改变。
 
@@ -197,9 +197,45 @@ Arkane Studios 的设计师 Dana Nightingale 构建了概念验证性前期制�
 >
 > 此时我能断定，可以让一堆方块按我的想法随便移动。这个原型正为探索使用真实关卡几何体的种种可能而做。稍微保守一点？是的。但仍然明显可行。
 >
-> 藉由原型引入了可动房间的想法；房间可以如集装箱般四处移动并插入到位，地图布局便完全动态，毋须改变房间。我很高兴我们没有朝着那个方向发展。
+> 藉由原型引入了可动房间的想法；房间可以如集装箱般四处移动并插入到位，制造出完全动态的地图布局，毋须改变房间。我很高兴我们没有朝着那个方向发展。
 >
 > 【…】
 >
+> 在研究了近一年的其他原型之后，是时候重新审视 Clockwork Mansion 并最终对其进行验证了。我制作了一个新版本，减少了曲折的房间，更加强调“幕后”区域......」
 >
+> \-- [Dana Nightingale （@DanaENight），2021 年 10 月 14 日](https://twitter.com/DanaENight/status/1448582302855045124)
 
+介绍下时间尺度：视频中展示的楼层花费了7个月的前期制作时间，在大约18个月后完成最终草图/白盒。
+
+{% embed url="https://www.youtube.com/watch?v=-BgynKsHKUo" %}
+Arkane 内部原型 [_Clockwork Mansion Proof of Concept_](https://www.youtube.com/watch?v=-BgynKsHKUo) 视频，[由 Dana Nightingale](https://twitter.com/DanaENight/status/1448582302855045124) 于 2013 年 2 月 5 日录制
+{% endembed %}
+
+## 总结
+
+* **机制**是游戏的重复系统和交互。
+  * 核心机制做常见，次要机制偶尔会为经验丰富的玩家提供游玩多样性和额外技巧。
+* **体验目标**是关卡面向玩家对设计目标。
+  * 整个游戏的主要设计目标称为**支柱**——你希望玩家学习、感受或了解的东西。
+* 项目需要的规划量视情况而定。
+  * 小型临时项目稍做（或不做）规划亦可；大型长期项目可能得有个长篇幅内部百科。
+  * **前期制作时的规划有助于协调开发人员，增进互信。**
+  * 制作新机制或游戏设计元素的原型时，在较大的游乐场式空间内搭建测试地图。
+* 计划可以帮助完成任务，但**计划赶不上变化**。哪怕前期制作完成，在项目进行过程中，很有可能调整计划，重新临场设计。这没关系！
+
+## 下一步怎么办？
+
+* 阅读前期制作的更多细节：
+  * [研究](research.md)对于专注于故事的项目或现实主义项目都很重要。
+  * 单人游戏项目得特别注意[节奏](pacing.md)。
+  * 项目开始时通常规划过大，必须缩小[范围](scope.md)。
+  * 大型叙事项目受益于[世界观设计](worldbuilding.md)工作。
+* 你也可以继续阅读关卡设计的[草图设计](../layout/)阶段。
+
+## 拓展阅读材料和资源（英语）
+
+* [**“一系列第一步 - 克服数字空白页”**，作者：Seth Marinello](https://www.youtube.com/watch?v=R75g3elj7y4) （GDC 2014）
+* [**“An Approach to Holistic Level Design” 作者：**&#x53;teve Lee](https://www.youtube.com/watch?v=CpOoTAVeEcU) （GDC 2017）
+* [**“Finding Duskers： Innovation Through Better Design Pillars” 作者：**&#x54;im Keenan](https://www.youtube.com/watch?v=kzQDVtysXjA) （GDC 2017）
+* Richard Lemarchand 的[**《A Playful Production Process》（**](https://www.playfulproductionprocess.com/)2021 年）是一本平易近人的教科书，介绍了游戏制作方法，非常适合高中生/大学生。
+* [前期制作 （Wikipedia）](https://en.wikipedia.org/wiki/Pre-production) 是电影和音乐行业的正式过程。
