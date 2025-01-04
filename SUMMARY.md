@@ -65,7 +65,7 @@
 * [单人游戏研究](studies/single_player_studies/README.md)
   * [Undead Burg（黑暗之魂1）](studies/single_player_studies/undead_burg_dark_souls_1.md)
   * [Assassins（Thief 1）](studies/single_player_studies/assassins-thief-1.md)
-  * [(STUB) The Cradie（小偷3）](studies/single_player_studies/stub_the_cradie_thief_3.md)
+  * [(STUB) The Cradie（神偷3）](studies/single_player_studies/stub_the_cradie_thief_3.md)
   * [(STUB) Sapienza（杀手）](studies/single_player_studies/stub_sapienza_hitman.md)
   * [(STUB) Silent Cartographer（光环）](studies/single_player_studies/stub_silent_cartographer_halo.md)
 * [多人游戏研究](studies/multiplayer_studies/README.md)

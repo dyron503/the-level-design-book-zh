@@ -17,7 +17,7 @@ description: 概述电子游戏关卡设计的一般工作流程和概念
 
 如果您不知道从哪里开始，请尝试做所有事情。随着经验的积累，您将了解何时跳过或扩展某个步骤。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Dave“DaveJ”Johnston 为《反恐精英》1.6 设计的 de_dust 地下通道</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Dave“DaveJ”Johnston 为《反恐精英》 1.6 设计的 de_dust 地下通道</p></figcaption></figure>
 
 ## 按需定制流程
 
@@ -67,7 +67,7 @@ _推荐修改的格斗游戏列表见_[_工具_](../appendix/tools.md)
 
 _视觉空间规划的更多信息见_[_绘制关卡草图_](layout/)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>《军团要塞：经典》多人游戏地图 「Warpath」 的关卡草图，作者：Robin Walker</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>《军团要塞：经典》 多人游戏地图 「Warpath」 的关卡草图，作者：Robin Walker</p></figcaption></figure>
 
 ### 4.搭建白盒
 
@@ -133,7 +133,7 @@ _发布关卡/构筑作品集的更多信息见_[_发布_](release.md)
 
 ## 回顾
 
-关卡设计通常涉及多个步骤，按以下一般顺序：（1）预制作，（2）战斗设计（除非是非战斗游戏），（3）绘制关卡草图，（4）搭建白盒，（5）编写脚本，（6） 打光，（7）场景美术设计，（8）发布。
+关卡设计通常涉及多个步骤，按以下一般顺序：（1）前期制作，（2）战斗设计（除非是非战斗游戏），（3）绘制关卡草图，（4）搭建白盒，（5）编写脚本，（6） 打光，（7）场景美术设计，（8）发布。
 
 重复一遍：没有两个项目完全相同。有时候可能会跳过预制作阶段、延长脚本编写或提前进行场景美术设计，等等。
 
