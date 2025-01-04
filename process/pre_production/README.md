@@ -187,9 +187,9 @@ _「玩家应该享受非线性流程」_ 侧重于抽象结构；这与普通�
 Double Fine PsychOdyssey · EP08: “A Couple Years of a Lot of Work”（原视频来自 [Youtube](https://www.youtube.com/watch?v=eaA0P2dDHSg\&list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_\&index=9)）上传于 2023 年 2 月 11 日
 {% endembed %}
 
-## 示例：《耻辱2》  _Clockwork Mansion_ 关卡
+## 示例：《耻辱2》  「机关宅邸」 关卡
 
-《耻辱》 系列是探索复杂空间的第一人称潜行 ARPG。在 《耻辱2》 中 「发条大厦」 关卡中，布局动态改变。
+《耻辱》 系列是探索复杂空间的第一人称潜行 ARPG。在 《耻辱2》 中 「机关宅邸」 关卡中，布局动态改变。
 
 Arkane Studios 的设计师 Dana Nightingale 构建了概念验证性前期制作原型：（[Twitter 帖子](https://twitter.com/DanaENight/status/1448582302855045124)）
 
@@ -201,7 +201,7 @@ Arkane Studios 的设计师 Dana Nightingale 构建了概念验证性前期制�
 >
 > 【…】
 >
-> 在研究了近一年的其他原型之后，是时候重新审视 Clockwork Mansion 并最终对其进行验证了。我制作了一个新版本，减少了曲折的房间，更加强调“幕后”区域......」
+> 在研究了近一年的其他原型之后，是时候重新审视机关宅邸并最终对其进行验证了。我制作了一个新版本，减少了曲折的房间，更加强调『幕后』区域......」
 >
 > \-- [Dana Nightingale （@DanaENight），2021 年 10 月 14 日](https://twitter.com/DanaENight/status/1448582302855045124)
 
@@ -215,7 +215,7 @@ Arkane 内部原型 [_Clockwork Mansion Proof of Concept_](https://www.youtube.c
 
 * **机制**是游戏的重复系统和交互。
   * 核心机制做常见，次要机制偶尔会为经验丰富的玩家提供游玩多样性和额外技巧。
-* **体验目标**是关卡面向玩家对设计目标。
+* **体验目标**是关卡面向玩家之设计目标。
   * 整个游戏的主要设计目标称为**支柱**——你希望玩家学习、感受或了解的东西。
 * 项目需要的规划量视情况而定。
   * 小型临时项目稍做（或不做）规划亦可；大型长期项目可能得有个长篇幅内部百科。
@@ -239,3 +239,4 @@ Arkane 内部原型 [_Clockwork Mansion Proof of Concept_](https://www.youtube.c
 * [**“Finding Duskers： Innovation Through Better Design Pillars” 作者：**&#x54;im Keenan](https://www.youtube.com/watch?v=kzQDVtysXjA) （GDC 2017）
 * Richard Lemarchand 的[**《A Playful Production Process》（**](https://www.playfulproductionprocess.com/)2021 年）是一本平易近人的教科书，介绍了游戏制作方法，非常适合高中生/大学生。
 * [前期制作 （Wikipedia）](https://en.wikipedia.org/wiki/Pre-production) 是电影和音乐行业的正式过程。
+
