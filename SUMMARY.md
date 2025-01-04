@@ -17,7 +17,7 @@
   * [掩体](process/combat/cover.md)
   * [地图平衡](process/combat/map_balance.md)
 * [绘制关卡草图](process/layout/README.md)
-  * [玩家心流](process/layout/flow/README.md)
+  * [玩家流动](process/layout/flow/README.md)
     * [Circulation](process/layout/flow/circulation.md)
     * [垂直移动](process/layout/flow/verticality.md)
   * [关键路径](process/layout/critical_path.md)
