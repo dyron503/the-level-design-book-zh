@@ -90,7 +90,7 @@ coverY: 0
 
 你也许不得不丢弃或者重做关卡，甚至可能多次这样做！没关系的。无需觉得时间和工作被浪费；不妨将其视为有价值的研究。游&#x620F;_&#x5F00;发_ 的开发二字就这么来的 -- 开发意味着需要时间。弄清楚什么是好的关卡和游戏需要时间。
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>《大金刚》 （1981） 的早期设计文件，展示了机制、操控和心流;作者：Shigeru Miyamoto（<a href="https://x.com/forestillusion/status/1443284433268666368/">通过 X</a>）</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>《咚奇刚》 （1981） 的早期设计文件，展示了机制、操控和心流;作者：Shigeru Miyamoto（<a href="https://x.com/forestillusion/status/1443284433268666368/">通过 X</a>）</p></figcaption></figure>
 
 ## 搭建游乐场风格的测试地图
 
