@@ -29,7 +29,7 @@ description: 如何绘制自顶向下的包含玩家流动和关卡拓扑的平�
 
 * [**玩家流动**](flow/)**是玩家在关卡里移动的感觉。**
   * 玩家的移动是快还是慢，平稳还是突然？
-  * 期望的玩家流动取决于[体验目标](../pre_production/#experience-goals)。突然的玩家流动并不是坏的。
+  * 期望的玩家流动取决于[体验目标](../pre_production/README.md##体验目标)。突然的玩家流动并不是坏的。
   * [关键路径](critical_path.md)是完成关卡的理想路径。
   * [交通](flow/critical_path.md)是真实世界的建筑师对流动的看法。
   * [垂直布局](flow/verticality.md)是关于支持玩家的垂直方向移动。
@@ -46,7 +46,7 @@ description: 如何绘制自顶向下的包含玩家流动和关卡拓扑的平�
 
 设计关卡草图没有唯一的最佳方案。每个人（和项目）都可以用不同的方式制作关卡草图。不过如果你觉得有点迷失方向的话，试着做下面每件事：
 
-1. [**前期制作**](../pre_production/)：定义设计目标
+1. [**前期制作**](../pre_production/README.md)：定义设计目标
 2. **设计构想缩略图**：脑暴核心形状
 3. **气泡图**：可视化区域之间的大小/玩家流动
 4. **平面图**：更详细地绘制特定的房间形状
@@ -60,7 +60,7 @@ description: 如何绘制自顶向下的包含玩家流动和关卡拓扑的平�
 
 ### 1. 前期制作计划
 
-设计没有目的·的事物很难。在[前期制作](../pre_production/)阶段，我们试图在制作之前定义和计划我们想要做什么。
+设计没有目的·的事物很难。在[前期制作](../pre_production/README.md)阶段，我们试图在制作之前定义和计划我们想要做什么。
 
 所以在画关卡草图之前，先定义至少一个玩家**体验目标**。在这个关卡，玩家需要学习、感受或者做什么？
 
@@ -70,9 +70,9 @@ description: 如何绘制自顶向下的包含玩家流动和关卡拓扑的平�
 
 一旦你有了一些目标，你就可以规划具体事件和活动的序列——[节奏](../pre_production/pacing.md)，帮助你实现体验目标。
 
-例如，你的体验目标是「逃离可怕的怪物」，然后你可以将体验分解为更小的具体**节拍**，比如\*「一、听到门后婴儿的哭声；二、揭露是僵尸熊发出婴儿的哭声；三、跳出窗户逃离怪物。」\*（这个简单的计划已经帮了很大的忙，现在可以知道我们需要一扇门、一扇窗、一只熊......）
+例如，你的体验目标是「逃离可怕的怪物」，然后你可以将体验分解为更小的具体**节拍**，比如*「一、听到门后婴儿的哭声；二、揭露是僵尸熊发出婴儿的哭声；三、跳出窗户逃离怪物。」*（这个简单的计划已经帮了很大的忙，现在可以知道我们需要一扇门、一扇窗、一只熊......）
 
-_要更详细地规划体验目标，见_[_前期制作_](../pre_production/)_。_
+_要更详细地规划体验目标，见_[_前期制作_](../pre_production/README.md)_。_
 
 _要进一步规划活动和节拍，见_[_节奏_](../pre_production/pacing.md)_。_
 
@@ -157,17 +157,17 @@ _要进一步规划活动和节拍，见_[_节奏_](../pre_production/pacing.md)
 
 <figure><img src="../../.gitbook/assets/layout-10.png" alt=""><figcaption><p>注意在这张《传送门2》中一个谜题的等距关卡草图中的玩家流动箭头，来自 Game Informer，2010年3月</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/layout-11.png" alt=""><figcaption><p>带有等距关卡草图和节奏大纲的真实 Valve 内部白板，用于规划《半衰期2》的第二章......然而，请注意，这张图和最终的游戏有所不同；由 Phil Co 拍摄（来自 Interloper.net）</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/layout-11.png" alt=""><figcaption><p>带有等距关卡草图和节奏大纲的真实 Valve 内部白板，用于规划《半衰期2》的第二章......然而，请注意，这张图和最终的游戏有所不同；由 Phil Co 拍摄（<a href="https://www.interlopers.net/articles/phil-co-interview">来自 Interloper.net</a>）</p></figcaption></figure>
 
 ## 关卡草图例子
 
 ### 半衰期2（Valve）中的「诺瓦矿场」，作者 Eric Kirchmer 和 David Sawyer
 
-大约在单人第一人称设计游戏《半衰期2》（2004）中游戏流程 2/3 的时候，玩家必须穿过一个被称为「诺瓦矿场」的废弃监狱。这是一个长章节，充满了多层近距离遭遇战，面对快速移动的敌军小队，设计上旨在充分利用玩家的“虫饵”武器，该武器可以指挥飞行的「蚁狮」怪物攻击敌方士兵。
+大约在单人第一人称设计游戏《半衰期2》（2004）中游戏流程 2/3 的时候，玩家必须穿过一个被称为「诺瓦矿场」的废弃监狱。这是一个长章节，充满了多层近距离遭遇战，面对快速移动的敌军小队，设计上旨在充分利用玩家的「虫饵」武器，该武器可以指挥飞行的「蚁狮」怪物攻击敌方士兵。
 
 - [研究](../pre_production/research.md)：大量借鉴了加利福尼亚州旧金山湾的恶魔岛联邦监狱
 - [类型学](typology/README.md)：以地面战斗场为基础，旁边有狭窄的走道和监狱牢房，常常设有围栏/门
-- [遭遇战](../combat/encounter.md)：分块、分房间设计，每个区域有一个中心概念，给蚁狮 vs. 联邦军的遭遇战增添新的变化。
+- [遭遇战](../combat/encounter.md)：分块、分房间设计，每个区域有一个中心概念，给蚁狮 vs. 联邦军的遭遇战增添新的变化
 
 <figure><img src="../../.gitbook/assets/layout-12.png" alt=""><figcaption><p>恶魔岛的地图（左）和诺瓦矿场的监房区域气泡图（右），来自艺术设定集 《Half-Life 2: Raising The Bar》</p></figcaption></figure>
 
@@ -190,6 +190,8 @@ _要进一步规划活动和节拍，见_[_节奏_](../pre_production/pacing.md)
 注意图中用编号、大量使用的注释来标记草图的不同部分，并偶尔使用透视缩略图来阐明整体结构。当关卡草图涉及到高度变化时会很难从俯视视角绘制，这时透视缩略图特别有用。
 
 各种各样的草图和丰富的标记帮助 Yoder 传达他的设计意图。绘制关卡草图的过程帮助 Yoder 表达设计问题。
+
+<figure><img src="../../.gitbook/assets/layout-20.png" alt=""><figcaption><p>由此产生的《雷神之锤1》中悬挂笼子区域的关卡白盒截图，由 Andrew Yoder 提供</p></figcaption></figure>
 
 ### 《看门狗2》（育碧）的「自动操控 - 电视台」，作者 luliu-Cosmin Oniscu
 
@@ -254,21 +256,19 @@ _要进一步规划活动和节拍，见_[_节奏_](../pre_production/pacing.md)
 >
 > —— 《超级玛利欧64》攻略指南上的采访（来自 [shmuplations.com](https://shmuplations.com/mario64/)）
 
-<figure><img src="../../.gitbook/assets/layout-19.png" alt=""><figcaption><p>上面印有《超级马里奥64》「炸弹王国」关卡的立体黏土模型的杂志扫描件；这看上去像是预先规划好的关卡吗？因为这就不是！...来自《超级马里奥64完整清晰指南》（来自 https://shmuplations.com/mario64/）</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/layout-19.png" alt=""><figcaption><p>上面印有《超级马里奥64》「<a href="https://www.mariowiki.com/Bob-omb_Battlefield">炸弹王国</a>」关卡的立体黏土模型的杂志扫描件；这看上去像是预先规划好的关卡吗？因为这就不是！...来自《超级马里奥64完整清晰指南》（来自 <a href="https://shmuplations.com/mario64/"> shmuplations.com</a>）</p></figcaption></figure>
 
 {% hint style="info" %}
-
 #### 反-反关卡草图？
 
-你也可以争辩宫本茂的方法不那么适用于其他游戏类型，情景或者团队。他们有一堆行业老手的专业开发者，并且互相认识和信任彼此，当然他们可以在没有计划的情况下即兴创作小型低多边形单人游戏关卡。
-
+你也可以争辩宫本茂的方法不那么适用于其他不同的游戏类型、情况、团队。他们有一堆行业老手的专业开发者，并且互相认识和信任彼此，当然他们可以在没有计划的情况下即兴创作小型低多边形单人游戏关卡。
 {% endhint %}
 
 ## 总结
 
 **关卡草图**是关卡结构和关键节奏节拍的初始可视化规划。你的最终关卡应当会很不一样。
 
-1. 从一个基本的[前期制作计划](../pre_production/README.md)开始，定义想要的[体验目标](../pre_production/README.md#体验目标)和[节奏](../pre_production/pacing.md)。
+1. 从一个基本的[前期制作计划](../pre_production/README.md)开始，定义想要的[体验目标](../pre_production/README.md##体验目标)和[节奏](../pre_production/pacing.md)。
 2. 画出[设计构想](parti.md)草图并做标记，核心形状的简单缩略图草图。
 3. 用**气泡图**来安排空间，强调整体的比例和关系。
 4. 画**平面图**，一个有着墙壁和地板的俯视图。
