@@ -11,7 +11,7 @@
   * [研究](process/pre_production/research.md)
   * [世界观设计](process/pre_production/worldbuilding.md)
   * [限定范围](process/pre_production/scope.md)
-* [战斗设计](process/combat/README.md)
+* [🔫 战斗设计](process/combat/README.md)
   * [敌人设计](process/combat/enemy_design.md)
   * [遭遇战](process/combat/encounter.md)
   * [掩体](process/combat/cover.md)
