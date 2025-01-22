@@ -17,7 +17,7 @@ description: 概述电子游戏关卡设计的一般工作流程和概念
 
 如果您不知道从哪里开始，请尝试做所有事情。随着经验的积累，您将了解何时跳过或扩展某个步骤。
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Dave“DaveJ”Johnston 为《反恐精英》 1.6 设计的 de_dust 地下通道</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Dave“DaveJ”Johnston 为《反恐精英》 1.6 设计的 de_dust 地下通道</p></figcaption></figure>
 
 ## 按需定制流程
 
@@ -53,7 +53,7 @@ _设计战斗、武器和敌人的更多信息见_[_战斗设计_](combat/)
 
 _推荐修改的格斗游戏列表见_[_工具_](../appendix/tools.md)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>电子表格详细展示了《战神》 (2018) 女武神 Boss 的技能组，<a href="https://twitter.com/jasondeheras/status/1376005158656638977">作者：Jason de Heras（来自 X）</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>电子表格详细展示了《战神》 (2018) 女武神 Boss 的技能组，<a href="https://twitter.com/jasondeheras/status/1376005158656638977">作者：Jason de Heras（来自 X）</a></p></figcaption></figure>
 
 ### 3.绘制关卡草图
 
@@ -67,7 +67,7 @@ _推荐修改的格斗游戏列表见_[_工具_](../appendix/tools.md)
 
 _视觉空间规划的更多信息见_[_绘制关卡草图_](layout/)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>《军团要塞：经典》 多人游戏地图 「Warpath」 的关卡草图，作者：Robin Walker</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>《军团要塞：经典》 多人游戏地图 「Warpath」 的关卡草图，作者：Robin Walker</p></figcaption></figure>
 
 ### 4.搭建白盒
 

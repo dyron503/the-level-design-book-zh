@@ -12,7 +12,7 @@ description: 如何提取概念，设计游戏世界之架空历史
 
 你的世界观文档可以描述星球的气候、游戏内事件之前的政治和历史细节；也可以深入朴素细节——类似比如每个人早上什么时候起床，或者主人公的母亲晚餐喜欢吃什么。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://dishonored.fandom.com/wiki/Dunwall">“Dunwall”</a> 地图，这是 Arkane Studios 制作的 《耻辱》（2012）中深受伦敦启发的虚构城市</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><a href="https://dishonored.fandom.com/wiki/Dunwall">“Dunwall”</a> 地图，这是 Arkane Studios 制作的 《耻辱》（2012）中深受伦敦启发的虚构城市</p></figcaption></figure>
 
 ## 游戏世界观设计
 
