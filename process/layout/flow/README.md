@@ -12,6 +12,8 @@ description（To 番茄：请加在上方）：在关卡中移动是怎样的体
 不要混淆玩家流动（关卡设计）和[心流（游戏设计）](https://www.gamasutra.com/view/feature/166972/cognitive_flow_the_psychology_of_.php)。心流理论是关于当玩家的能力和挑战难度匹配的时候，进入高度专注的「心流状态」。
 {% endhint %}
 
+<figure><img src="../../../.gitbook/assets/flow.png" alt=""><figcaption><p>斯帕（F1）和戴通纳（NASCAR）有着弯道编号的赛道地图，Will Pittenger 制作（CC-BY-SA 许可证）</p></figcaption></figure>
+
 ## 如何感受玩家流动
 
 对比如上两条现实世界中的赛车赛道。
@@ -19,6 +21,8 @@ description（To 番茄：请加在上方）：在关卡中移动是怎样的体
 [斯帕-弗朗科尔尚赛道](https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps)（上图左）是一条一级方程式（F1）赛车赛道，拥有各种各样的转弯、[视线](../../combat/map_balance.md#视线和掩体)和斜坡，需要完美的驾驶技术。相比之下，[戴通纳国际赛道](https://en.wikipedia.org/wiki/Daytona_International_Speedway)（上图右）是一条 NASCAR 赛车道，是一个扁长的椭圆形，支持众多赛车互相推挤。
 
 这两个「关卡」都服务于相同的核心机制——赛车，但是注重于天差地别的驾驶风格和策略。
+
+<figure><img src="../../../.gitbook/assets/flow(1).png" alt=""><figcaption><p>1965年比利时大奖赛上，斯帕著名的洛鲁日弯道；照片版权所有 LAT Photographic</p></figcaption></figure>
 
 以下是一位职业赛车手描述斯帕赛道著名弯道洛鲁日弯道的流动：
 
@@ -29,6 +33,8 @@ description（To 番茄：请加在上方）：在关卡中移动是怎样的体
 在这个方面，关卡设计就有点像赛车。我们想要玩家做出什么样的移动？那令人感觉危险还是安全？简单还是复杂？
 
 在 Dave Johnston 设计的多人地图炙热沙城II里，标志性的「中门」（下图）将玩家引导到一个危险的狭窄之字形转弯处。另一边的对手甚至可以透过薄木门射击。就像洛鲁日弯道一样，你永远不会百分百知道另一边是什么。这比一条笔直开放的道路更令人兴奋。
+
+<figure><img src="../../../.gitbook/assets/flow(2).png" alt=""><figcaption><p>CS1.6 中地图炙热沙城II上著名的「中门」；地图由 Dave Johnston 制作</p></figcaption></figure>
 
 ## 最佳的玩家流动？
 
@@ -54,6 +60,9 @@ description（To 番茄：请加在上方）：在关卡中移动是怎样的体
 
 *有关垂直布局的更多信息，请参见[垂直布局](verticality.md)。*
 
+<figure><img src="../../../.gitbook/assets/flow(3).png" alt=""><figcaption><p>《雷神之锤3》 DM17「最长的院子」中跳跃垫和传送器轨迹的示意图，作者 Brandon James，《雷神之锤3：竞技场》（1999 年）
+</p></figcaption></figure>
+
 ## 如何设计玩家流动
 
 玩家流动是关于**设计移动**的。有诸多因素会影响移动的感觉：
@@ -75,6 +84,9 @@ description（To 番茄：请加在上方）：在关卡中移动是怎样的体
 
 在下面的照片里，一个「非官方」的泥路从「官方」的水泥路旁偏离出来。那条非官方的路线就是期望路径。这是玩家真正想要并觉得最自然直观的路线。
 
+<figure><img src="../../../.gitbook/assets/flow(4).png" alt=""><figcaption><p>偏离人行道/横穿草坪的理想路径，由 Duncan Rawlinson 拍摄
+</p></figcaption></figure>
+
 {% hint style="info" %}
 有时候现实世界中的建筑师会[把期望路径铺设成官方路径](https://99percentinvisible.org/article/least-resistance-desire-paths-can-lead-better-design/)。在关卡设计中我们也是类似的，观察[游戏测试](../../blockout/playtesting/README.md)然后做出相应调整。
 {% endhint %}
@@ -85,6 +97,8 @@ description（To 番茄：请加在上方）：在关卡中移动是怎样的体
 2. 比较期望路径和玩家可以采取的实际路径
 
 在下面的图例中，玩家必须爬上楼梯来到达出口……
+
+<figure><img src="../../../.gitbook/assets/flow(5).png" alt=""><figcaption><p>图中比较了之字形楼梯（左）和转角楼梯（右）的不同玩家流动；Andrew Yoder 搭建的关卡几何</p></figcaption></figure>
 
 玩家的期望路径*（黄色）*直接导向二楼的出口，但是实际的玩家流动*（红色）*迫使玩家走上楼梯。
 
@@ -106,6 +120,8 @@ description（To 番茄：请加在上方）：在关卡中移动是怎样的体
 
 ​	*更多关于为单人关卡设计主要路线的内容，参见[关键路径](../../layout/critical_path.md)。*
 
+<figure><img src="../../../.gitbook/assets/flow(6).png" alt=""><figcaption><p>带有标记的关键路径和编号游戏节拍的示例关卡草图</p></figcaption></figure>
+
 ### 连通性
 
 **连通性**指区域之间是如何互相连接的。
@@ -115,6 +131,8 @@ description（To 番茄：请加在上方）：在关卡中移动是怎样的体
 连通性分析对于多人地图设计来说尤其有帮助，多人地图通常更加非线性而不遵循单一的关键路径。取而代之的是，我们把关卡草图组织成*道路*系统。
 
 ​	*更多关于叙事、寻路引导和多人游戏道路，参见[连通性](circulation.md)。*
+
+<figure><img src="../../../.gitbook/assets/flow(7).png" alt=""><figcaption><p>成就预备学院中学的连通性图，由 Studio Twenty Seven Architecture 设计</p></figcaption></figure>
 
 ## 总结
 
