@@ -130,7 +130,7 @@ _不知道要做什么？请参阅我们建议的_[_项目列表_](learning/proj
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p><em>Alba: a wildlife adventure</em> 的早期开放世界白盒截图：游戏由 ustwo Games 开发，图片由<a href="https://medium.com/@ustwogames/the-environment-art-of-alba-a-wildlife-adventure-6bddd8b56955"> Jessie Van Aeist </a>提供</p></figcaption></figure>
 
-## 下一步怎么办？
+下一步怎么办？
 
 * 初学者：对流程先有一个总体了解，尤其是[预制作](process/pre_production/)、[草图](process/layout/)和[白盒](process/blockout/)。然后挑选一个[工具](appendix/tools.md)，加入[关卡设计社区](appendix/communities.md)，接着 「去搓几张图」 。
 * 有一定经验：阅读许多教程中会忽视的特定主题，如[节奏设计](process/pre_production/pacing.md)、[玩家流动](process/layout/flow/)、[地图平衡](process/combat/map_balance.md)、[体量设计](process/blockout/massing/)、规划[关卡标准参数](process/blockout/metrics.md)和[打光](process/lighting/)。

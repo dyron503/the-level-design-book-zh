@@ -31,7 +31,7 @@ description: 如何绘制自顶向下的包含玩家流动和关卡拓扑的平�
   * 玩家的移动是快还是慢，平稳还是突然？
   * 期望的玩家流动取决于[体验目标](../pre_production/README.md##体验目标)。突然的玩家流动并不是坏的。
   * [关键路径](critical_path.md)是完成关卡的理想路径。
-  * [交通](flow/critical_path.md)是真实世界的建筑师对流动的看法。
+  * [连通性](flow/critical_path.md)是真实世界的建筑师对流动的看法。
   * [垂直布局](flow/verticality.md)是关于支持玩家的垂直方向移动。
 * [**设计构想**](parti.md)**是关卡草图的核心结构/主要思想。**
   * 将整个关卡草图绑定在一起的总体概念是什么？
@@ -149,7 +149,7 @@ _要进一步规划活动和节拍，见_[_节奏_](../pre_production/pacing.md)
 
 给关卡草图的重要部分**做标记**和打标签。
 
-- **[玩家流动](flow/README.md)。**对于单人关卡，画或标记出[关键路径](critical_path.md)。对于多人地图，轻轻涂或标记出团队出生点和[主要交通](flow/circulation.md)。
+- **[玩家流动](flow/README.md)。**对于单人关卡，画或标记出[关键路径](critical_path.md)。对于多人地图，轻轻涂或标记出团队出生点和[连通性](flow/circulation.md)。
 - **区域。**标记主要区域和地标。对于多人竞技地图，考虑可能的[「标注」](https://steamcommunity.com/sharedfiles/filedetails/?id=157442340)。
 - **游戏物体。**标记重要的目标、NPC、物品、陷阱等和玩家体验息息相关的。但是不要用太多东西把画弄得杂乱。
 
