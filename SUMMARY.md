@@ -87,7 +87,11 @@
 ## 附录 <a href="#appendix" id="appendix"></a>
 
 * [工具](appendix/tools.md)
-* [资产与资源](appendix/assets_and_resources.md)
+* [资产与资源](appendix/resources/README.md)
+  * [推荐讲座](appendix/resources/talks.md)
+  * [推荐书籍](appendix/resources/books.md)
+  * [《雷神之锤》 资源](appendix/resources/quake.md)
+  * [文件格式](appendix/resources/formats.md)
 * [社区](appendix/communities.md)
 * [关于本书/作者](appendix/about_this_book_and_authors.md)
 * [许可/版权信息](appendix/licence_copyright.md)

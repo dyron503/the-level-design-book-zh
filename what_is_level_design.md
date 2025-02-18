@@ -124,14 +124,14 @@ _不知道要做什么？请参阅我们建议的_[_项目列表_](learning/proj
 
 [教学项目](learning/project_plans/)是为学生和爱好者提供的自学教程和项目创意。教师应检查[教育工作者须知](learning/notes_for_educators.md)。
 
-还有一个附录，其中包含包含推荐软件和游戏引擎的工具列表，以及其他关卡设计[资产和资源](appendix/assets_and_resources.md)的链接 （免费模型和纹理，其他关卡设计书籍的推荐等）最后，我们强烈建议加入关卡设计[社区](appendix/communities.md)，仅仅一本书可无法回报你对关卡设计的爱。
+还有一个附录，其中包含包含推荐软件和游戏引擎的工具列表，以及其他关卡设计[资产和资源](appendix/resources/)的链接 （免费模型和纹理，其他关卡设计书籍的推荐等）最后，我们强烈建议加入关卡设计[社区](appendix/communities.md)，仅仅一本书可无法回报你对关卡设计的爱。
 
 <figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption><p><em>Alba: a wildlife adventure</em> 的早期开放世界白盒截图：游戏由 ustwo Games 开发，图片由<a href="https://medium.com/@ustwogames/the-environment-art-of-alba-a-wildlife-adventure-6bddd8b56955"> Jessie Van Aeist </a>提供</p></figcaption></figure>
 
 下一步怎么办？
 
 * 初学者：对流程先有一个总体了解，尤其是[预制作](process/pre_production/)、[草图](process/layout/)和[白盒](process/blockout/)。然后挑选一个[工具](appendix/tools.md)，加入[关卡设计社区](appendix/communities.md)，接着 「去搓几张图」 。
-* 有一定经验：阅读许多教程中会忽视的特定主题，如[节奏设计](process/pre_production/pacing.md)、[玩家流动](process/layout/flow/)、[地图平衡](process/combat/map_balance.md)、[体量设计](process/blockout/massing/)、规划[关卡标准参数](process/blockout/metrics/)和[打光](process/lighting/)。
+* 有一定经验：阅读许多教程中会忽视的特定主题，如[节奏设计](process/pre_production/pacing.md)、[玩家流动](process/layout/flow/)、[地图平衡](process/combat/map_balance.md)、[体量设计](process/blockout/massing/)、规划[关卡体验参数](process/blockout/metrics/)和[打光](process/lighting/)。
 
 > 我们强烈反对「引导线」或是「形状&色彩心理学」这样的理论。它们要么具有误导性，要么对设计无用或帮助甚少。
 

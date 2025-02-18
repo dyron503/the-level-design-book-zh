@@ -19,7 +19,7 @@ layout:
 
 # 关卡设计之书
 
-关卡的研究流程概述流程概述关卡设计之书（以下称「本书」）以平易近人、追求时效且批判性的方式收集了 3D 电子游戏的关卡设计知识。具备各种经验程度和各类引擎使用经历的策划均适用本书。
+关卡设计之书（以下称「本书」）以平易近人、追求时效且批判性的方式收集了 3D 电子游戏的关卡设计知识。具备各种经验程度和各类引擎使用经历的策划均适用本书。
 
 {% hint style="info" %}
 本书由第三方维护，是[ _The Level Design Book_](https://book.leveldesignbook.com/) （以下简称「原书」）的简体中文本地化版本。本书与原书同在 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议下分发。
