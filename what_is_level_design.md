@@ -23,8 +23,6 @@ coverY: 0
 
 关卡策划关注各类影响玩家**感觉和行为**的空间。
 
-
-
 ## 什么是关卡设计
 
 关卡设计的定义很宽泛，但本书中作一具体限定：
@@ -118,11 +116,11 @@ _不知道要做什么？请参阅我们建议的_[_项目列表_](learning/proj
 
 本书包括四部分：
 
-[流程](broken-reference)详细介绍了核心关卡设计概念，对于初学者和需要学习关卡设计工作流程和术语的学生来说至关重要。大多数读者应该从这里开始。
+[流程](broken-reference/)详细介绍了核心关卡设计概念，对于初学者和需要学习关卡设计工作流程和术语的学生来说至关重要。大多数读者应该从这里开始。
 
-[文化](broken-reference)从不同角度涵盖了关卡设计趋势，并提供了有关建筑、打光和与关卡设计相关的其他技术历史及简短入门知识。
+[文化](broken-reference/)从不同角度涵盖了关卡设计趋势，并提供了有关建筑、打光和与关卡设计相关的其他技术历史及简短入门知识。
 
-[研究](broken-reference)分析并揭示了特定关卡的工作原理，并附有图表和屏幕截图。
+[研究](broken-reference/)分析并揭示了特定关卡的工作原理，并附有图表和屏幕截图。
 
 [教学项目](learning/project_plans/)是为学生和爱好者提供的自学教程和项目创意。教师应检查[教育工作者须知](learning/notes_for_educators.md)。
 
@@ -133,11 +131,8 @@ _不知道要做什么？请参阅我们建议的_[_项目列表_](learning/proj
 下一步怎么办？
 
 * 初学者：对流程先有一个总体了解，尤其是[预制作](process/pre_production/)、[草图](process/layout/)和[白盒](process/blockout/)。然后挑选一个[工具](appendix/tools.md)，加入[关卡设计社区](appendix/communities.md)，接着 「去搓几张图」 。
-* 有一定经验：阅读许多教程中会忽视的特定主题，如[节奏设计](process/pre_production/pacing.md)、[玩家流动](process/layout/flow/)、[地图平衡](process/combat/map_balance.md)、[体量设计](process/blockout/massing/)、规划[关卡标准参数](process/blockout/metrics.md)和[打光](process/lighting/)。
+* 有一定经验：阅读许多教程中会忽视的特定主题，如[节奏设计](process/pre_production/pacing.md)、[玩家流动](process/layout/flow/)、[地图平衡](process/combat/map_balance.md)、[体量设计](process/blockout/massing/)、规划[关卡标准参数](process/blockout/metrics/)和[打光](process/lighting/)。
 
 > 我们强烈反对「引导线」或是「形状&色彩心理学」这样的理论。它们要么具有误导性，要么对设计无用或帮助甚少。
 
 * 资深人士：阅读我们的学术设计[研究](process/pre_production/research.md)，也许可以作出你的贡献。
-
-
-

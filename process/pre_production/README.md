@@ -16,15 +16,13 @@ coverY: 0
 * _What_ 你在制作什么？
   * 玩家的能力是什么？（机制、目标体验、节奏设计）
   * 哪些部分最重要？（支柱）
-* _How_&#x20;
+* _How_
   * 别人如何解决类似问题？（研究）
   * 需要多少时间？可行吗？（范围）
 
 项目过程中答案随时可能发生变化，这没什么关系。
 
 **计划很有用，但不万能：**&#x5728;开始动手制作内容前，我们本就很难对工作内容有具体认识。
-
-
 
 ## 项目规划
 
@@ -98,9 +96,9 @@ coverY: 0
 
 这些简单的游乐场风格测试关卡对于测试游戏机制和玩起来的一般感觉。如果你正在构建自己的角色控制器和玩家物理原型，测试关卡很重要。
 
-_要搭建内部使用的测试关卡，更多信息见_[_关卡体验参数_](../blockout/metrics.md)
+_要搭建内部使用的测试关卡，更多信息见_[_关卡体验参数_](../blockout/metrics/)
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p> 法国版《塞尔达传说：风之杖》 实际的内部开发者测试地图“K_Test2” 和 “I_TestM”，用于调整关卡体验参数。屏幕截图来自 Dark Linkaël <a href="https://tcrf.net/The_Legend_of_Zelda:_The_Wind_Waker/Unused_Rooms/Page_Two">（通过 tcrf.net）</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>法国版《塞尔达传说：风之杖》 实际的内部开发者测试地图“K_Test2” 和 “I_TestM”，用于调整关卡体验参数。屏幕截图来自 Dark Linkaël <a href="https://tcrf.net/The_Legend_of_Zelda:_The_Wind_Waker/Unused_Rooms/Page_Two">（通过 tcrf.net）</a></p></figcaption></figure>
 
 ## 名词-动词图表
 
@@ -116,7 +114,7 @@ _要搭建内部使用的测试关卡，更多信息见_[_关卡体验参数_](.
 
 ## 体验目标
 
-**体验目标是**玩家的某种想法、感觉或活动。要概念化目标，请尝试从这句话开始，_“在这个关卡中，玩家应该 \[学习/感觉到/做]...”_&#x20;
+**体验目标是**玩家的某种想法、感觉或活动。要概念化目标，请尝试从这句话开始，_“在这个关卡中，玩家应该 \[学习/感觉到/做]...”_
 
 * _在这个关卡中，玩家应该—_\
   —了解如何使用二段跳。（教学）
@@ -187,7 +185,7 @@ _「玩家应该享受非线性流程」_ 侧重于抽象结构；这与普通�
 Double Fine PsychOdyssey · EP08: “A Couple Years of a Lot of Work”（原视频来自 [Youtube](https://www.youtube.com/watch?v=eaA0P2dDHSg\&list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_\&index=9)）上传于 2023 年 2 月 11 日
 {% endembed %}
 
-## 示例：《耻辱2》  「机关宅邸」 关卡
+## 示例：《耻辱2》 「机关宅邸」 关卡
 
 《耻辱》 系列是探索复杂空间的第一人称潜行 ARPG。在 《耻辱2》 中 「机关宅邸」 关卡中，布局动态改变。
 
@@ -239,4 +237,3 @@ Arkane 内部原型 [_Clockwork Mansion Proof of Concept_](https://www.youtube.c
 * [**“Finding Duskers： Innovation Through Better Design Pillars” 作者：**&#x54;im Keenan](https://www.youtube.com/watch?v=kzQDVtysXjA) （GDC 2017）
 * Richard Lemarchand 的[**《A Playful Production Process》（**](https://www.playfulproductionprocess.com/)2021 年）是一本平易近人的教科书，介绍了游戏制作方法，非常适合高中生/大学生。
 * [前期制作 （Wikipedia）](https://en.wikipedia.org/wiki/Pre-production) 是电影和音乐行业的正式过程。
-

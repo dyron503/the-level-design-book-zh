@@ -21,7 +21,7 @@ coverY: 0
 * **信息**：在恰当时机，告诉玩家某些信息；
 * **情感强度**：玩家在某些时候集中注意力，另一些时候休息并静下心来。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>用于 《风之旅人》 (2012) 的精美节奏/绘图图表，摘自 GDC 2013 上的“Designing Journey”演讲</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>用于 《风之旅人》 (2012) 的精美节奏/绘图图表，摘自 GDC 2013 上的“Designing Journey”演讲</p></figcaption></figure>
 
 ## 节拍和变化
 
@@ -47,7 +47,7 @@ coverY: 0
   * 最终 Boss 摧毁出口，玩家无路可退
   * 玩家能够自行创造出口
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>强调音乐理论中的不同节拍（韵律、节奏、切分音、预期），摘自 Jack Perricone 的 <em>Melody in Songwriting</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>强调音乐理论中的不同节拍（韵律、节奏、切分音、预期），摘自 Jack Perricone 的 <em>Melody in Songwriting</em></p></figcaption></figure>
 
 ## 大场面
 
@@ -167,7 +167,7 @@ _详细信息见_[_关键路径_](../layout/critical_path.md)
 
 ## 图表
 
-进一步详细规划节奏时，可以根据[关卡体验参数](../blockout/metrics.md)对已有关卡排序，然后绘制**图表**。
+进一步详细规划节奏时，可以根据[关卡体验参数](../blockout/metrics/)对已有关卡排序，然后绘制**图表**。
 
 在调整 《半衰期2：第二章》 和 《求生之路4》 关卡的节奏时，Valve 设计师将节奏首先分为四类：
 
@@ -221,7 +221,7 @@ Thatgamecompany 非常喜欢约瑟夫·坎伯 (Joseph Campbell) 的 [《英雄�
 
 竞技性多人游戏的节奏更多来自于整体循环和游戏模式规则。在如 《绝地求生》、《堡垒之夜》 或 《Apex 英雄》 的[战术竞技](https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%80%83%E6%9D%80%E6%B8%B8%E6%88%8F)（Battle royale）游戏中，最后几名玩家被困在一个极小区域中时，比赛会更加精彩。但最后几名玩家会什么时候，在哪里决战呢？每场比赛互不相同，开发者无法编写或设置比赛具体如何进行。
 
-在 《反恐精英》、《军团要塞》 和 《守望先锋》 等团队竞技游戏中，关卡策划得仔细调整重生区域和阻塞点之间的行进时间。如果一方能够不公平地抢先进入阻塞点，地图玩起来就会给人感觉不大平衡。在多人游戏中，节奏更多由地图中[玩家流动](../layout/flow/)、草图[布局](../layout/)和[关卡体验参数](../blockout/metrics.md)直接作用。
+在 《反恐精英》、《军团要塞》 和 《守望先锋》 等团队竞技游戏中，关卡策划得仔细调整重生区域和阻塞点之间的行进时间。如果一方能够不公平地抢先进入阻塞点，地图玩起来就会给人感觉不大平衡。在多人游戏中，节奏更多由地图中[玩家流动](../layout/flow/)、草图[布局](../layout/)和[关卡体验参数](../blockout/metrics/)直接作用。
 
 <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>多人游戏地图（例如《英雄联盟》（左）炙热沙城II（右））的大部分节奏很大程度上取决于行进时间、布局和流程</p></figcaption></figure>
 
