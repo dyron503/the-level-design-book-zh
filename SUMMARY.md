@@ -50,7 +50,7 @@
   * [性能优化](process/environment_art/optimization.md)
 * [发布](process/release.md)
 
-## 第2册，文化 <a href="#culture" id="culture"></a>
+## 第 2 册，文化 <a href="#culture" id="culture"></a>
 
 * [作为文化之关卡设计](culture/level_design_as_culture.md)
 * [关卡设计的历史](culture/history_of_the_level_designer.md)
@@ -62,7 +62,7 @@
   * [家具史](culture/unfinished_pages/history_of_furniture.md)
   * [遭遇战设计的历史](culture/unfinished_pages/history_of_encounter_design.md)
 
-## 第3册，研究 <a href="#studies" id="studies"></a>
+## 第 3 册，研究 <a href="#studies" id="studies"></a>
 
 * [如何研究一个关卡](studies/how_to_study_a_level.md)
 * [单人游戏研究](studies/single_player_studies/README.md)
@@ -78,7 +78,7 @@
   * [迪士尼乐园（美国加利福尼亚州）](studies/real_world_studies/disneyland_ca_us.md)
   * [(STUB) 拉斯维加斯（美国内华达州）](studies/real_world_studies/stub_lvc_us.md)
 
-## 第4册，教育 <a href="#learning" id="learning"></a>
+## 第 4 册，教育 <a href="#learning" id="learning"></a>
 
 * [教育工作者须知](learning/notes_for_educators.md)
 * [计划中的教学项目](learning/project_plans/README.md)
