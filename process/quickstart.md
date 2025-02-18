@@ -17,7 +17,7 @@ description: 概述电子游戏关卡设计的一般工作流程和概念
 
 如果您不知道从哪里开始，请尝试做所有事情。随着经验的积累，您将了解何时跳过或扩展某个步骤。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Dave“DaveJ”Johnston 为《反恐精英》 1.6 设计的 de_dust 地下通道</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Dave“DaveJ”Johnston 为《反恐精英》 1.6 设计的 de_dust 地下通道</p></figcaption></figure>
 
 ## 按需定制流程
 
@@ -39,7 +39,7 @@ description: 概述电子游戏关卡设计的一般工作流程和概念
 
 _有关概念规划的更多信息见_[_预制作_](pre_production/)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>《最后生还者》（顽皮狗）内部规划板的照片，来自维多利亚和阿尔伯特博物馆的 「电子游戏」</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>《最后生还者》（顽皮狗）内部规划板的照片，来自维多利亚和阿尔伯特博物馆的 「电子游戏」</p></figcaption></figure>
 
 ### 2.战斗设计（可选）
 

@@ -21,7 +21,7 @@ coverY: 0
 * **信息**：在恰当时机，告诉玩家某些信息；
 * **情感强度**：玩家在某些时候集中注意力，另一些时候休息并静下心来。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>用于 《风之旅人》 (2012) 的精美节奏/绘图图表，摘自 GDC 2013 上的“Designing Journey”演讲</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>用于 《风之旅人》 (2012) 的精美节奏/绘图图表，摘自 GDC 2013 上的“Designing Journey”演讲</p></figcaption></figure>
 
 ## 节拍和变化
 
@@ -47,7 +47,7 @@ coverY: 0
   * 最终 Boss 摧毁出口，玩家无路可退
   * 玩家能够自行创造出口
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>强调音乐理论中的不同节拍（韵律、节奏、切分音、预期），摘自 Jack Perricone 的 <em>Melody in Songwriting</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>强调音乐理论中的不同节拍（韵律、节奏、切分音、预期），摘自 Jack Perricone 的 <em>Melody in Songwriting</em></p></figcaption></figure>
 
 ## 大场面
 
