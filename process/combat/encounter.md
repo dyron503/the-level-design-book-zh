@@ -134,5 +134,9 @@ _玩家角色的分类及研究见_[_玩家角色_](../blockout/playtesting/play
 
 玩家随游戏进程推进解锁区域的同时，也解锁 Boss 战；这虽暗示战斗顺序，但不强制一定要按此顺序作战。9 个 Boss 中，前三个专门作为简易教程，辅助玩家识别技能提示；不过策划有时会打乱先前的战斗模式，利用 这种暗示顺序逼迫玩家重新学习战斗时机。
 
-前索尼战斗策划[杰森·德·埃拉斯（Jason de Heras）在推特上关于战斗设计的详述：](https://twitter.com/jasondeheras/status/1376005093028335617)
+前索尼战斗策划[杰森·德·埃拉斯（Jason de Heras）在 Twitter 上关于本作战斗设计的详述：](https://twitter.com/jasondeheras/status/1376005093028335617)
+
+>
+
+
 
