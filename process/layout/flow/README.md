@@ -62,7 +62,7 @@ description: 在关卡中移动是怎样的体验
 
 _有关垂直布局的更多信息，请参见_[_垂直布局_](verticality.md)_。_
 
-<figure><img src="../../../.gitbook/assets/flow(3).png" alt=""><figcaption><p>《雷神之锤3》 DM17「最长的院子」中跳跃垫和传送器轨迹的示意图，作者 Brandon James，《雷神之锤3：竞技场》（1999 年）</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/flow(3).png" alt=""><figcaption><p>Q3DM17「最长的院子」中跳跃垫和传送器轨迹的示意图，作者 Brandon James，《雷神之锤3：竞技场》（1999 年）</p></figcaption></figure>
 
 ## 如何设计玩家流动
 
