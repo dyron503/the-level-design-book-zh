@@ -144,5 +144,40 @@ _玩家角色的分类及研究见_[_玩家角色_](../blockout/playtesting/play
 展示古娜攻击的动画GIF，长预判并带黄色特效鼓励招架/ 闪避（https://twitter.com/jasondeheras/status/1376005121830658049）
 {% endembed %}
 
-> 不同的是，卡拉（Kara）
+> 不同的是，卡拉（Kara）的攻击方式中有两种会强迫玩家格挡或闪避。其起手姿势相似，玩家要识别红色特效来选闪避或格挡 \[...] 卡拉> 冲刺技能同古娜，但玩家招架时机有误/防守时，> 易受附近尸鬼攻击，（这一机制增添紧张感）。卡拉的翼击是一种独立攻击。当她闪避并重新开启战斗时，这能为她> 带来另一种打法变化。\[..] 卡拉发动横扫翼击的距离会让这一招故意落空，> 旨在麻痹玩家。若玩家注意力不集中或贪心，这一招就会诱使他们发动攻> 击。最后小段向前位移极具迷惑性。
+>
+> 吉德瑞芙（Geirdriful）的招式结合了不少古娜和卡拉的要素。她的招式增加了两个独特的攻击，威力更强且组合全面。。\[..] 她唯一的近身终结> 攻击无法招架。与古娜/卡拉可被招架的冲刺攻击相比，这一攻击风> 险高但回报也高。\[..] 吉德瑞芙的翼击连击与古娜相同，但它作> 为独立攻击使用（而不是像古娜那样作为反击），又带来了一种> 打法变化，让战斗更难预料。吉德瑞芙也有和古娜一样无法格挡> 的翼突攻击；但作为独立攻击的招式，其位移和速度有所增加。如果玩家> 先与古娜战斗过，那么在无法格挡的翼突攻击前没有翼击的变化。> 玩家得重新学习吉德瑞芙出招节奏。
 
+> [-- 杰森·德·赫拉斯（Jason de Heras） (@JasonDeHeras)](https://twitter.com/jasondeheras/status/1376005093028335617)
+
+
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>《战神（2018）》里女武神之攻击模式拆解表，<a href="https://twitter.com/jasondeheras/status/1376005158656638977">来自杰森·德·赫拉斯的推特</a></p></figcaption></figure>
+
+## 示例：《羞辱》中的潜行首领
+
+在第一人称潜行游戏《羞辱》的第七关 「水淹区」 中，玩家会遇到一个首领NPC。玩家既可以在不被察觉的情况下悄悄绕过首领，也可尝试与其战斗。Arkane 工作室的关卡策划达娜·南丁格尔（Dana Nightingale）对这次遭遇战的设计文档发表评论：
+
+> 一般来说，我特别讨厌打 Boss 战。所以，能设计一场规避所有我不喜> 欢因素的 Boss 战，让我特别兴奋。\[……] 设计和达乌德（Daud）的那场战> 斗，至今仍是让我最为骄傲的事儿。我特爱看玩家打这关。> \
+>
+>
+> 长篇大论拿来做‘开发者评论’还行，要是有上百份资料要同步更新，或> 者得你去读这些玩意儿，那就不太妙了。> 三言两语还能把事儿说清楚，一直是我们的追求，可这谈何容易。
+>
+> [-- 达娜·南丁格尔 (@DanaENight)](https://twitter.com/DanaENight/status/1371022031886635011)
+
+南丁格尔最早的设计文档（如下），给这场对决定了明确的目标，也解释了把场地弄成这么个不多见的封闭布局。另外，《羞辱》 是 「沉浸式模拟」 RPG，玩家技能很多；她就画了流程图，推断玩家都有什么打法，以及怎么让战斗脚本把特殊情况处理妥当。不过呢，就像她自己说的，这文档读起来老费劲了；设计方案写得太细，不一定就能让规划和设计变得更好。
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>达娜·南丁格尔的《羞辱》 Boss 战设计文档(https://twitter.com/DanaENight/status/1370643659792744449)</p></figcaption></figure>
+
+{% embed url="https://youtu.be/yE3yO4zMMgg" %}
+这场 Boss 战要是用不触发警报的 「幽灵模式」 悄悄通关，能不能达到南丁格尔想要的效果？和最开始的设计思路比起来，又有何不同？
+{% endembed %}
+
+## 拓展阅读
+
+* [Game AI Pro](https://www.gameaipro.com/) 是游戏行业中聚焦游戏  人工智能编程和技术的核心出版物，由专业人士创作并编辑，还能免  费阅读。若你并非程序员，有些内容或许理解起来有难度，但还是  要尽力钻研。即便只能弄懂其中一半，也会让你收获颇丰。这对战斗  设计师来说，是极具价值的社区资源。
+* 安德鲁·约德（Andrew Yoder）的[ 《经典第一人称射击游戏战斗遭遇设  计基础（Basics of Classic FPS Combat Encounter Design）》](https://www.youtube.com/watch?v=oB4JMy9OjKk) （47分钟，英语）
+* 纳撒尼尔·查普曼（Nathaniel Chapman）的[《遭遇战设计主题：遭遇战设计  中的随机数生成（"Encounter Design Topics: RNG in Encounter Design"）》](https://www.nathanielchapman.games/pedrothedagger/encounter-design-topics-rng-in-encounter-design)，探讨了在战斗，尤其是多人或大型多人在线（MMO）游戏  战斗中，何时以及如何运用随机性。
+* ["Quake Mapping Tips: Difficulty Balance in Level Design" (8 min) video by Michael Markie](https://www.youtube.com/watch?v=s9bleQCTdTo) workshops Quake 1 combat encounters at different difficulty tiers, while offering general design commentary and advice. Markie uses different monster behavior and weapon / ammo placement to encourage different player movement within the same room layout. A great primer even if you're not mapping for Quake.

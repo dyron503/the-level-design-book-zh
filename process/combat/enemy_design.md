@@ -12,7 +12,7 @@ description: 对具有特定行为、优劣势的不同类型NPC进行原型设�
 
 _部分敌人设计示例可参照 《毁灭战士》 和 《雷神之锤》 的关卡体验参数设计_
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>敌人设计可能极为复杂多样；图为 id Software 《毁灭战士2》（1994年）中怪物的 sprite 图</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>敌人设计可能极为复杂多样；图为 id Software 《毁灭战士2》（1994年）中怪物的 sprite 图</p></figcaption></figure>
 
 ## 敌人清单
 
@@ -20,7 +20,7 @@ _部分敌人设计示例可参照 《毁灭战士》 和 《雷神之锤》 的
 
 <table><thead><tr><th width="133">角色</th><th>行为</th></tr></thead><tbody><tr><td>杂兵</td><td>近距离直线近战攻击玩家，易推动</td></tr><tr><td>小队</td><td>中远程攻击，理想状态下成组轮攻</td></tr><tr><td>首领</td><td>高生存能力，可强化附近盟友</td></tr><tr><td>重装</td><td>高生存能力，但速度慢、体型大（易打中或躲避）</td></tr><tr><td>蜂群怪</td><td>体型小、速度快，生命值低但近距离伤害高</td></tr><tr><td>狙击手</td><td>攻速慢、生命值低的远程攻击者，缺少掩护时极其脆弱</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>维尔福（Valve Software） 《半衰期 2》（2004年）和 《半衰期：爱莉克斯》（2020年）中联合军士兵的不同设计</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>维尔福（Valve Software） 《半衰期 2》（2004年）和 《半衰期：爱莉克斯》（2020年）中联合军士兵的不同设计</p></figcaption></figure>
 
 完成一个可用的敌方NPC通常需要设计师、艺术家和程序员协同合作。这工作量颇大，远超这本关卡设计书籍的覆盖范围。
 
@@ -30,7 +30,7 @@ _部分敌人设计示例可参照 《毁灭战士》 和 《雷神之锤》 的
 * 通过设计细节和动画，**展现**敌人的状态、意图及长短处。
   * 例如在《上古卷轴5：天际》中，巨人高大且行动迟缓，玩家必须灵活走位并消耗其体力
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>莫比·弗兰科（Moby Francke）与兰迪·伦丁（Randy Lundeen）在 Gamefest 2008 中发表的 <a href="https://cdn.cloudflare.steamstatic.com/apps/valve/2008/GameFest08_ArtInSource.pdf">《Valve 如何将艺术指导融入游戏玩法》（"How Valve Connects Art Direction to Gameplay"）</a>中，强调角色外形和胸高之对比的 「阅读层级」 幻灯片</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>莫比·弗兰科（Moby Francke）与兰迪·伦丁（Randy Lundeen）在 Gamefest 2008 中发表的 <a href="https://cdn.cloudflare.steamstatic.com/apps/valve/2008/GameFest08_ArtInSource.pdf">《Valve 如何将艺术指导融入游戏玩法》（"How Valve Connects Art Direction to Gameplay"）</a>中，强调角色外形和胸高之对比的 「阅读层级」 幻灯片</p></figcaption></figure>
 
 ## 平衡敌方阵容
 
@@ -85,7 +85,7 @@ _部分敌人设计示例可参照 《毁灭战士》 和 《雷神之锤》 的
 
 生命值的变体：护甲/护盾、眩晕/受创踉跄
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>这是 2002 年 Bungie 一场设计讨论会上有关 《光环》 敌人的幻灯片内容，显示出一种关联：「越强悍 = 越智能」</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>这是 2002 年 Bungie 一场设计讨论会上有关 《光环》 敌人的幻灯片内容，显示出一种关联：「越强悍 = 越智能」</p></figcaption></figure>
 
 #### 攻击范围/行为
 
@@ -143,7 +143,7 @@ _部分敌人设计示例可参照 《毁灭战士》 和 《雷神之锤》 的
 
 待完成：以 《半衰期 2》 的直升机为例说明
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>《毁灭战士2》 中，与小鬼、霰弹枪手和链锯枪手战斗时的不同节奏…… 幻灯片摘自 Matthias Worch 在 2014 年游戏开发者大会上的演讲<a href="https://www.youtube.com/watch?v=BEF4GVNzkUw">《游戏与关卡设计中的有意义抉择》（"Meaningful Choice in Game &#x26; Level Design"</a><a href="https://www.youtube.com/watch?v=BEF4GVNzkUw">）</a><a href="http://www.worch.com/2014/03/23/decisions-that-matter/">（幻灯片PDF）</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>《毁灭战士2》 中，与小鬼、霰弹枪手和链锯枪手战斗时的不同节奏…… 幻灯片摘自 Matthias Worch 在 2014 年游戏开发者大会上的演讲<a href="https://www.youtube.com/watch?v=BEF4GVNzkUw">《游戏与关卡设计中的有意义抉择》（"Meaningful Choice in Game &#x26; Level Design"</a><a href="https://www.youtube.com/watch?v=BEF4GVNzkUw">）</a><a href="http://www.worch.com/2014/03/23/decisions-that-matter/">（幻灯片PDF）</a></p></figcaption></figure>
 
 ## Boss 设计
 

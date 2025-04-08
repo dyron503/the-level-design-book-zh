@@ -31,7 +31,7 @@ _如果你不打算在游戏内设计战斗，可以跳过此节直接开始学�
 
 _推荐制作模组和研究的的包含战斗要素游戏见_[_工具_](../../appendix/tools.md)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Mike Stout 的演讲 《走进玩具箱： 探究 Skylanders Spyro's Adventure 的设计》（<a href="https://www.gdcvault.com/play/1015838/Reaching-Into-the-Toy-Chest">"Reaching Into Toy-Chest：A Look into Skylanders Spyro's Adventure's Design "</a>）幻灯片，来自 GDC 2012</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Mike Stout 的演讲 《走进玩具箱： 探究 Skylanders Spyro's Adventure 的设计》（<a href="https://www.gdcvault.com/play/1015838/Reaching-Into-the-Toy-Chest">"Reaching Into Toy-Chest：A Look into Skylanders Spyro's Adventure's Design "</a>）幻灯片，来自 GDC 2012</p></figcaption></figure>
 
 即便只是修改已有的含战斗游戏，你也须能够从理论上解释它如何运作。含战斗游戏无论单人或多人，都以某种方式具备下面这些要素：
 
@@ -66,7 +66,7 @@ _推荐制作模组和研究的的包含战斗要素游戏见_[_工具_](../../a
 * 伤害、范围、开火速度、弹量等**数据**
 * **强度区间**，玩家在不同时候选择最适合/有效的武器
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>《毁灭战士》（1993）中的武器启发了之后许多射击游戏：(1) 电锯，(2) 手枪，(3) 霰弹枪，(4) 超级霰弹枪，(5) 橡皮枪，(6) 火箭发射器，(7) 等离子枪，(8) BFG</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>《毁灭战士》（1993）中的武器启发了之后许多射击游戏：(1) 电锯，(2) 手枪，(3) 霰弹枪，(4) 超级霰弹枪，(5) 橡皮枪，(6) 火箭发射器，(7) 等离子枪，(8) BFG</p></figcaption></figure>
 
 ### 经济系统
 
@@ -80,7 +80,7 @@ _推荐制作模组和研究的的包含战斗要素游戏见_[_工具_](../../a
 * **玩家成长：**&#x7ECF;验值、被动技、升级、装备等长线收益
   * 例如：玩家的生命值为 99%，但有一条被动技能——如果生命值满了，就能获得双倍伤害——就大概率会决定还是选择 +25% 生命值的物品，因为伤害奖励比浪费的治疗值更有价值
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>用于动作 RPG 游戏《战神：毁灭之战》（God of War: Ragnarok）（2022）的武器升级电子表格，摘自罗伯-迈耶（Rob Meyer）的演讲 "命运的抉择：毁灭之战的战斗规模"（<a href="https://youtu.be/6iTBqcBv5QA?t=1311">"Reckoning With Fate: Combat At The Scale of Ragnarok" </a>）（2023 年）（来自 YouTube）。</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>用于动作 RPG 游戏《战神：毁灭之战》（God of War: Ragnarok）（2022）的武器升级电子表格，摘自罗伯-迈耶（Rob Meyer）的演讲 "命运的抉择：毁灭之战的战斗规模"（<a href="https://youtu.be/6iTBqcBv5QA?t=1311">"Reckoning With Fate: Combat At The Scale of Ragnarok" </a>）（2023 年）（来自 YouTube）。</p></figcaption></figure>
 
 > 「我们在纸上建模，得出获得齿轮和进化的合适期望；之后在不断测试和迭代中让游玩情况和期望模型匹配。
 >
