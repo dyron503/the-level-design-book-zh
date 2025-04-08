@@ -138,7 +138,11 @@ _玩家角色的分类及研究见_[_玩家角色_](../blockout/playtesting/play
 
 > 古娜（Gunnr）有两种独立攻击（黄色特效）。为它们安排了相近的反应时间/攻击速度，用于方便玩家把握时机，鼓励招架；即便如此，不强求玩家这样做。她的所有攻击都可以向左/右/后躲开；唯一无法被招架的（红色特效）攻击在一连串平 A 后才放出，所以玩家完全来得及应对。无法格挡的攻击几乎没有追踪能力，玩家向右做最低精度的闪避即可。
 >
-> 古娜通常在消散后才砍出一刀，消散动作对于玩家是明确视觉暗示，也能提供 2-3 秒有层次的预判时间。玩家可以利用它准备好应对后续攻击。【…】她消散再攻击后几乎不停顿，可以说这减少了玩家须便宜的变量，使得战斗更容易。策划由此让战斗仍然紧张，但允许玩家更易战胜敌人。
+> 古娜通常在消散后才砍出一刀，消散动作对于玩家是明确视觉暗示，也能提供 2-3 秒有层次的预判时间。玩家可以利用它准备好应对后续攻击。【…】她消散再攻击后几乎不停顿，可以说这减少了玩家须便宜的变量，使得战斗更容易。策划由此让战斗仍然紧张，但让玩家更易战胜。
 
+{% embed url="https://book.leveldesignbook.com/~gitbook/image?url=https%3A%2F%2F1666186240-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-LtVT8pJjInrrHVCovzy%252F-MWv39_9hxX4YRTiVgLr%252F-MWvGiaQH-kw-MmwTCwm%252FLDB_GodOfWar_JasonDeHeras_ValkyrieTelegraph.gif%3Falt%3Dmedia%26token%3Db1a2db3c-77f9-43e5-a099-f97c14249323&width=400&dpr=3&quality=100&sign=7cf6d2c6&sv=2" fullWidth="false" %}
+展示古娜攻击的动画GIF，长预判并带黄色特效鼓励招架/ 闪避（https://twitter.com/jasondeheras/status/1376005121830658049）
+{% endembed %}
 
+> 不同的是，卡拉（Kara）
 
