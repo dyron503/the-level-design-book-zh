@@ -1,17 +1,17 @@
 # Table of contents
 
 * [关卡设计之书](README.md)
-* [✨ 关卡设计是什么](what_is_level_design.md)
+* [关卡设计是什么](what_is_level_design.md)
 
 ## 第 1 册，流程 <a href="#process" id="process"></a>
 
-* [🗺️ 如何制作关卡](process/quickstart.md)
-* [🧠 前期制作](process/pre_production/README.md)
+* [如何制作关卡](process/quickstart.md)
+* [前期制作](process/pre_production/README.md)
   * [节奏设计](process/pre_production/pacing.md)
   * [研究](process/pre_production/research.md)
   * [世界观设计](process/pre_production/worldbuilding.md)
   * [限定范围](process/pre_production/scope.md)
-* [🔫 战斗设计](process/combat/README.md)
+* [战斗设计](process/combat/README.md)
   * [敌人设计](process/combat/enemy_design.md)
   * [遭遇战](process/combat/encounter.md)
   * [掩体](process/combat/cover.md)
