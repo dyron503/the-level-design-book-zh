@@ -85,6 +85,8 @@ NPC 会无视灌木、高草丛中的玩家，PVP 游戏中就得另当别论。
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (59).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
+### 拐角类型
+
 ## 构建掩体
 
 ### 掩体的体验参数
