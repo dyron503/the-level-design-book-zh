@@ -21,7 +21,7 @@
     * [空间流线](process/layout/flow/circulation.md)
     * [垂直移动](process/layout/flow/verticality.md)
   * [关键路径](process/layout/critical_path.md)
-  * [设计构想](process/layout/parti.md)
+  * [图示](process/layout/parti.md)
   * [类型学](process/layout/typology/README.md)
     * [大门](process/layout/typology/gates.md)
 * [搭建关卡白盒](process/blockout/README.md)
